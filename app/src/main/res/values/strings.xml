@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MSC2019</string>
+    <string name="add">Agregar</string>
+    <string name="name">Nombre:</string>
+    <string name="salery">Salario:</string>
+    <string name="news">Nuevo</string>
+    <string name="update">Modificar</string>
+    <string name="delete">Eliminar</string>
+    <string name="id">ID:</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+</resources>
